@@ -1,0 +1,36 @@
+run:
+BIENVENIDOS AL INSTITUTO TODOSPIERDEN
+-------------------------------------
+Nombre de docente del curso:
+maira
+Nombre de la materia del curso:
+fundamentos
+Cantidad de estudiantes matriculados:
+2
+------------------------
+DATOS DE LOS ESTUDIANTES
+------------ *** -----------
+ID Estudiante1
+222
+Nombre completo del estudiante1
+Calificacion del 20% - Est1
+23
+Calificacion del 30% - Est1
+23
+Calificacion del 15% - Est1
+23
+Calificacion del 15% - Est1
+23
+Calificacion del 20% - Est1
+23
+------------ *** -----------
+ID Estudiante2
+33
+Nombre completo del estudiante2
+Calificacion del 20% - Est2
+25
+Calificacion del 30% - Est2
+25
+Calificacion del 15% - Est2
+25
+Calificacion del 15% - Est2

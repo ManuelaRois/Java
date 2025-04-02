@@ -1,0 +1,6 @@
+run:
+Error: Could not find or load main class conceptos_basicos.Conceptos_basicos
+Caused by: java.lang.ClassNotFoundException: conceptos_basicos.Conceptos_basicos
+C:\Users\rreng\AppData\Local\NetBeans\Cache\25\executor-snippets\run.xml:111: The following error occurred while executing this line:
+C:\Users\rreng\AppData\Local\NetBeans\Cache\25\executor-snippets\run.xml:94: Java returned: 1
+BUILD FAILED (total time: 2 seconds)
